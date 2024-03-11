@@ -17,4 +17,4 @@ Ref: https://github.com/arun-gupta/docker-kubernetes-hello-world
 * $docker build -t helloworld .
 
 * http://localhost:8082/hello-world-war-1.0.0
----------------------------------------------
+----------------------------------------------
